@@ -1,5 +1,5 @@
 #### Content:  
- Two situations or opinions. You will have to give your point of view on the subject and explain your reasoning with examples and arguments
+Two situations or opinions. You will have to give your point of view on the subject and explain your reasoning with examples and arguments
 ##### Time: 
 - **Preparation**: 15 seconds 
 - **Speaking**: 45 seconds
