@@ -1,3 +1,76 @@
 
-- Punish = penalize, != exonerate
-- contract a disease
+- Punish/penalize &rarr; Castigar
+- Exonerate &rarr; Exonerar
+- Contract a disease &rarr; Contraer una enfermedad 
+- Unheard of &rarr; Inaudito
+- In hindsight, however &rarr; En retrospectiva, sin embargo
+- Being in turmoil &rarr; Sumido en la confusión
+- Rally behind &rarr; Apoyar
+- Needlessly &rarr; Innecesario
+- Tallow &rarr; Sebo (animal)
+- Butler &rarr; Mayordomo
+- Housekeeper &rarr; Ama de casa
+- Posh home &rarr; Casa elegante
+- Cottage &rarr; Casa rural
+- Rush light &rarr; Vela de junco
+- Pinched &rarr; Pellizcado
+- Nip &rarr; Pinza
+- Pliers &rarr; Alicates
+- Tongs &rarr; Tenazas
+- "Chips from woods" &rarr; Virutas de madera
+- Rag &rarr; Trapo
+- Dripping &rarr; Gotear
+- Scorched &rarr; Chamuscado
+- **Snuff** &rarr; Apoyar (llamas)
+- Tar sands &rarr; Deposito de alquitrán
+- Financial profit &rarr; Beneficios financieros
+- Tap into &rarr; Tocar
+- Dwindling &rarr; Menguar
+- Shallow &rarr; Poco profundo
+- Brackish &rarr; Salubre (agua)
+- Thrive &rarr; Prosperar
+- To dwell &rarr; Morar
+- Stout &rarr; ??
+- To rivet &rarr; ??
+- Roughly &rarr; Aproximadamente
+- Lunge off &rarr; Arremeter
+- Well &rarr; Pozo
+- To recap &rarr; Recuperar (dinero)
+- To recuperate &rarr; Recuperar (salud)
+- To recover &rarr; Recuperar (objeto perdido)
+- Landfills &rarr; Vertederos
+- Byproduct &rarr; Subproducto
+- Decay &rarr; Desintegrar
+- Rail against &rarr; Luchar en contra
+- Hearing &rarr; Audiencia
+- Brink &rarr; Borde
+- Creeping &rarr; Progresivo
+- MP (Member of Parliament) &rarr; Diputado
+- Littering &rarr; ??
+- Sewage &rarr; Aguas residuales
+- Smog &rarr; Niebla tóxica
+---
+### How to kill a Mockingbird book
+- Elbow &rarr; codo
+- Assuage &rarr; Calmar emociones negativas
+- Thigh &rarr; Muslo
+- Creek &rarr; Arroyo
+- Piety &rarr; Piedad
+- Stinginess &rarr; Tacañería 
+- Brethren &rarr; Hermanos de religión
+- Thence &rarr; "De ese lugar a" 
+  - "I went first to Paris thence to Rome"
+- Lest &rarr; A pesar que
+- Spittoon &rarr; Escupidero
+- Unsullied &rarr; Impecable
+- Slap &rarr; Barro
+- Saggy &rarr; Poco firme
+- Hitch &rarr; Mover
+---
+### Mindhunter series
+- Vindicate &rarr; Exculpar
+  - "hospital staff were vindicated by the inquest verdict"
+- Rat (someone) out  &rarr; Delatar (a alguien)
+  - "he ratted out a pair of colleagues, so he could stay out of jail"
+- Jarring &rarr; ??
+- Edgewise &rarr; ??
