@@ -4,6 +4,7 @@ You will read a short text related to university life, then you will listen to a
 - **Reading**: 45 seconds 
 - **Listening**: 1-2 minutes
 - **Preparation**: 30 seconds
+- **Speaking**: 1 minute
 ##### Template
 - Both the reading and the lecture **encompass** about < concept> 
 - To begin with the teacher **exemplifies** this  **<example 1>** 

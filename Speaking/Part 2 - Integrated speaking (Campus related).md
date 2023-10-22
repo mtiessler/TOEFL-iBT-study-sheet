@@ -4,8 +4,9 @@ You will read a short text related to university life, then you will listen to a
 - **Reading**: 45 seconds 
 - **Listening**: 1-2 minutes
 - **Preparation**: 30 seconds
+- **Speaking**: 1 minute
 ##### Template
-- The man/woman expresses his/her **disagreement** towards **situation**
+- The man/woman expresses his/her **disagreement** towards the **< situation>**
 - To begin with he/she **manifests** **<argument 1>** 
 - Moreover he/she indicates **<argument 2>** 
 ## Exercise 1
