@@ -49,6 +49,7 @@
 - Littering &rarr; ??
 - Sewage &rarr; Aguas residuales
 - Smog &rarr; Niebla tóxica
+- "Apportionment of the budget would be better expended on..."
 ---
 ### How to kill a Mockingbird book
 - Elbow &rarr; codo
