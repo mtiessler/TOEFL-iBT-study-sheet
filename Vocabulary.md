@@ -50,6 +50,7 @@
 - Sewage &rarr; Aguas residuales
 - Smog &rarr; Niebla tóxica
 - "Apportionment of the budget would be better expended on..."
+- “the third rail of American politics” makes a reference to the electrified third rail of a train track that would kill you if you touched it
 ---
 ### How to kill a Mockingbird book
 - Elbow &rarr; codo
