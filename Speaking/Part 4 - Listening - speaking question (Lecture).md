@@ -6,6 +6,6 @@ You will listen to a two- or three-minute recording of a lecture. You will then 
 - **Speaking**: 1 minute
 
 ##### Template
-- The teacher **gives an explanation about** < subject/term> by giving  < examples>
+- The teacher **gives an explanation about** < subject/term + brief explanaiton> by giving  < examples>
 - Initially, the teacher **exemplifies** this  **<example 1>**
 - Moreover the professor **illustrates** **< example 2>** 
