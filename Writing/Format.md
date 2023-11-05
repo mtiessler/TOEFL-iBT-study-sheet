@@ -31,7 +31,7 @@
 - Use **while** structure:
   - **While** the author of the reading thinks that ... the lecturer rejects the author's claims.
 
-### Integrated task templates
+### Integrated task template
 1) **Introduction**
    1) Both the reading and the lecture **encompass about** ___
    2) **While** the author of the article **argues that** ___, the lecturer **opposes** the **claims** presented in the article
@@ -45,8 +45,7 @@
    2) The **teacher**, however, **asserts** __. 
    3) He **points out**
 4) **Third paragraph**
-   1) Finally, the author **puts forth the idea that** _____. 
-   2) The author **contends** that ____.
+   1) Finally, the author **puts forth the idea that** _____.
    3) **On the other hand**, the lecturer’s stance is  _____. 
    4) He **argues** that _____.
 ---
@@ -105,6 +104,7 @@ The lecture provides examples of these changes, such as the growing popularity o
 Gen Z is portrayed as seeking individuality and eco-friendly options rather than mindlessly supporting fast fashion. 
 Social media, particularly TikTok, plays a role in promoting recycling and sustainable fashion trends among Gen Z.
 
+---
 ### Practice
 #### Exercise 2
 I completely agree with both David and Rachel's opinions. In addition to those, I consider that one of the majors strengths of democracy is that it **encompasses** a huge amount of different ideologies. 
@@ -117,3 +117,22 @@ For **addressing** this issue I consider that people should do a crash course ab
 ##### Correction
 Response briefly mentions a strength and a weakness of democracy, but it lacks in-depth analysis or examples to support your points. You could provide more detailed explanations to strengthen your argument.
 
+---
+### Practice
+#### Exercise 1
+Both the lecture and the reading encompass about Hydroponics. 
+While the author of the article argues that Hydroponics is an incredible alternative to traditional farming, thanks to some benefits such as high profitability, capacity to plant without taking into account the weather and the high quality of the resulting crops, the lecturer opposes the claims presented in the article. 
+His position is that Hydroponics is far from being an alternative solution to traditional agriculture. 
+
+To begin with, according to the reading, with Hydroponics, the crops can be cultivated everywhere. 
+This argument is challenged by the professor.
+He manifests that some crops are reliant on soil, specially those that have big roots. An example could be potatoes. 
+
+Moreover, the author indicates that with Hydroponics, crops do not need any kind of pesticides. 
+Not only that but also crops have higher quality. 
+The teacher, however, asserts that this is not true because due to the way crops are interconnected, it is very easy for diseases to spread through the whole crop. 
+
+Finally, the author puts forth the idea that with Hydroponics, less space is required to start a crop. 
+On the other hand, the professor's stance is that because of the way Hydroponics work, more O2 is required and as a consequence,
+a big space is required for the crops. 
+Not only that, but also he manifests that the running and set up costs are very high, as a result, there is no chance for having a short-term benefit
