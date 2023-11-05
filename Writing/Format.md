@@ -56,6 +56,7 @@ On the other hand, the reading exemplifies this young people as people who are j
 Finally, the teacher illustrates how social media is in fact having a positive impact in the Gen Z people. She states that nowadays TikTok has fashion trends that promote the recycling of old clothes. 
 On the other hand, in the reading it can be read that young people contribute towards fast fashion, and as a result, they are constantly buying new clothes which will be used for creating new posts in the social media.
 ---
+##### Correction
 The reading passage discusses the negative aspects of "fast fashion," highlighting its impact on both people and the environment. 
 It mentions low wages for factory workers, excessive waste production, and environmental pollution, while also expressing concerns about Gen Z's apparent disregard for these issues.
 In contrast, the lecture challenges some of these assumptions and offers a more positive perspective on Gen Z's approach to fashion. 
@@ -64,3 +65,16 @@ The lecture emphasizes that Gen Z is not just talking about change but actively 
 The lecture provides examples of these changes, such as the growing popularity of renting items and buying second-hand clothing from platforms like Depop and Vinted. 
 Gen Z is portrayed as seeking individuality and eco-friendly options rather than mindlessly supporting fast fashion. 
 Social media, particularly TikTok, plays a role in promoting recycling and sustainable fashion trends among Gen Z.
+
+### Practice
+#### Exercise 2
+I completely agree with both David and Rachel's opinions. In addition to those, I consider that one of the majors strengths of democracy is that it **encompasses** a huge amount of different ideologies. 
+As a result, progress comes from extracting the best ideas from each one of them. 
+However, I would say that one of the greatest pitfalls from democracy is the easiness in which every adult can vote. 
+Consequently, this can lead to situations where people without any basic knowledge of how the democratic system works, can vote without knowing what they are really voting. 
+As a result, the results of elections can be random. 
+For **addressing** this issue I consider that people should do a crash course about democracy and the political parties before being able to vote.
+
+##### Correction
+Response briefly mentions a strength and a weakness of democracy, but it lacks in-depth analysis or examples to support your points. You could provide more detailed explanations to strengthen your argument.
+
