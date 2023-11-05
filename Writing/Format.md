@@ -9,8 +9,29 @@
 
 - Discussion task
   - 10 mn reading + writing
+---
+### Integrated task tips
+- Instead of using The writer/reading **says**, the lecturer **says** use words such as: 
+  - Claim
+  - Argue
+  - Point out
+  - Manifest
+  - Indicates
+  - Express
 
 
+- For pointing out the rejection of ideas use: 
+  - Reject
+  - Oppose
+  - Challenge
+  - Whereas
+  - On the other hand...
+
+
+- Use **while** structure:
+  - **While** the author of the reading thinks that ... the lecturer rejects the author's claims.
+
+---
 
 ### Mock exam 2
 #### Exercise 1
