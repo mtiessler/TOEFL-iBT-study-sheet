@@ -31,6 +31,19 @@
 - Use **while** structure:
   - **While** the author of the reading thinks that ... the lecturer rejects the author's claims.
 
+### Integrated task templates
+1) **Introduction**
+   1) Both the reading and the lecture **encompass about** ___
+   2) **While** the author of the article **argues that** ___, the lecturer **opposes** the **claims** presented in the article
+   3) His position is ___
+2) **First paragraph**
+   1) **To begin with** the reading __
+   2) This argument is **challenged** by the **lecturer**. 
+   3) He **manifests** __
+3) **Second paragraph**
+   1) **Moreover**, the author **indicates**
+   2) The **teacher**, however, **asserts** __. 
+   3) He **points out**
 ---
 
 ### Mock exam 2
