@@ -2,7 +2,14 @@
 - 1 Integrated task - Read/Listen/Write. min. 180 words 
 - 1 Discussion task. min. 100 words
 ##### Time:
-- 29 minutes
+- Integrated task: 
+  - 3 minutes reading
+  - 1-2 mn listening
+  - 15 mn writing
+
+- Discussion task
+  - 10 mn reading + writing
+
 
 
 ### Mock exam 2
@@ -20,7 +27,7 @@ As a result, poor people have less income and rich people have more. This turns 
 Not only that but also making the middle class disappear. Moreover, when inequality is present, the tax income for the country dwingles. 
 As a result, there is less expenditure in essential services such as healthcare, infraestructure among many others.
 
-
+### Mock exam 3
 #### Exercise 1
 Both the lecture and the **reading** encompass the concept of the "whipping boy" and its historical origins. 
 The teacher manifests that there is no real **evidence**~~s~~ on the historical references that the reading illustrates. 
@@ -39,3 +46,21 @@ An essential argument perhaps is that by standardizing, we can filter, rank easi
 By setting objective performance indicators, we can fairly say that one student is better than another. Moreover, standar**d**ization gets rid off subjective evaluations which in fact, can turn out to be unfair. 
 For example, saying that a student is better than another because of its creativity, is something that will depend on the ~~examinator~~ examiner. 
 As a result, depending on the **examiner** there will be different **criteria**~~s~~, which will result in an unfair grading.
+
+### Practice 
+#### Exercise 1
+Both the lecture and the reading encompass the concept of "Fast fashion" and the role the Gen Z youngsters are playing in it. 
+To begin with, the teacher manifests that the Gen Z is fully committed towards fighting climate change, whereas the reading illustrates that the Gen Z people do not care at all about that. 
+Moreover, the professor opines that they are trying, more than ever, to shift shopping habits. She adds that it is very common nowadays to see them buying second hand clothes in online platforms such as "Vinted" and as a result, fast fashion is being replaced by an eco friendly movement. 
+On the other hand, the reading exemplifies this young people as people who are just seeking cheap and accessible clothing for their own sake without caring about the impact they may generate. 
+Finally, the teacher illustrates how social media is in fact having a positive impact in the Gen Z people. She states that nowadays TikTok has fashion trends that promote the recycling of old clothes. 
+On the other hand, in the reading it can be read that young people contribute towards fast fashion, and as a result, they are constantly buying new clothes which will be used for creating new posts in the social media.
+---
+The reading passage discusses the negative aspects of "fast fashion," highlighting its impact on both people and the environment. 
+It mentions low wages for factory workers, excessive waste production, and environmental pollution, while also expressing concerns about Gen Z's apparent disregard for these issues.
+In contrast, the lecture challenges some of these assumptions and offers a more positive perspective on Gen Z's approach to fashion. 
+The lecturer acknowledges the presence of Gen Z activists in climate change movements like Extinction Rebellion and their increasing involvement in politics. 
+The lecture emphasizes that Gen Z is not just talking about change but actively altering their shopping behaviors.
+The lecture provides examples of these changes, such as the growing popularity of renting items and buying second-hand clothing from platforms like Depop and Vinted. 
+Gen Z is portrayed as seeking individuality and eco-friendly options rather than mindlessly supporting fast fashion. 
+Social media, particularly TikTok, plays a role in promoting recycling and sustainable fashion trends among Gen Z.
