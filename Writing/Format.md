@@ -57,7 +57,7 @@
 ### Integrated writing template
 
 1) **Introduction**
-   1) I totally agree with X opinion whereas I respectfully disagree with Y thinking. // I totally agree with both X and Y beliefs.
+   1) I totally agree with X opinion whereas I respectfully disagree with Y thinking. // I wholeheartedly agree with both X and Y.
    2) I hold the view that ___
 2) **First argument**
    1) An essential argument perhaps is ____ + reason why you think that + 1 example justifying it
@@ -152,3 +152,14 @@ Finally, the author puts forth the idea that with Hydroponics, less space is req
 On the other hand, the professor's stance is that because of the way Hydroponics work, more O2 is required and as a consequence,
 a big space is required for the crops. 
 Not only that, but also he manifests that the running and set up costs are very high, as a result, there is no chance for having a short-term benefit
+
+---
+### Practice 
+#### Exercise 2
+I totally agree with both John's and Lisa's beliefs. 
+I hold the view that dystopian literature helps society to understand which social, economical, political and religious factors are making a negative impact in our daily lives. 
+An essential argument perhaps is that nowadays people give more importance to privacy thanks to dystopian literature. 
+This is thanks to the example of the "big brother" concept seen in 1984. 
+As a result, social movements are promoting privacy and trying to avoid politicians to seek in our lives. 
+Moreover, thanks to this kind of literature, we can understand how easily it is to follow political speeches which are not right and which promote violence or xenophobia, but we can't see it at first glance.
+An example is given in animal farm book and the communist outbreak seen in it.
