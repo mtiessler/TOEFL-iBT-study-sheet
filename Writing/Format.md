@@ -10,7 +10,8 @@
 - Discussion task
   - 10 mn reading + writing
 ---
-### Integrated task tips
+### Integrated writing task tips
+- Aim for 180-220 words
 - Instead of using The writer/reading **says**, the lecturer **says** use words such as: 
   - Claim
   - Argue
@@ -19,14 +20,12 @@
   - Indicates
   - Express
 
-
 - For pointing out the rejection of ideas use: 
   - Reject
   - Oppose
   - Challenge
   - Whereas
   - On the other hand...
-
 
 - Use **while** structure:
   - **While** the author of the reading thinks that ... the lecturer rejects the author's claims.
@@ -48,6 +47,22 @@
    1) Finally, the author **puts forth the idea that** _____.
    3) **On the other hand**, the lecturer’s stance is  _____. 
    4) He **argues** that _____.
+
+---
+### Independent writing task tips
+
+- A good way to start is to say that you agree/disagree with your colleagues. 
+- Aim for +100 words
+
+### Integrated writing template
+
+1) **Introduction**
+   1) I totally agree with X opinion whereas I respectfully disagree with Y thinking. // I totally agree with both X and Y beliefs.
+2) **First argument**
+   1) An essential argument perhaps is ____ + reason why you think that + 1 example justifying it
+3) **Second argument**
+   1) Moreover, ___ + reason why + 1 example
+
 ---
 
 ### Mock exam 2
