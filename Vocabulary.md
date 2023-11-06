@@ -79,3 +79,18 @@
   - "he ratted out a pair of colleagues, so he could stay out of jail"
 - Jarring &rarr; ??
 - Edgewise &rarr; ??
+
+--- 
+### With the Old Breed book
+- **To glare** &rarr; Mirar de manera furiosa, enfadada
+  - He **glared** at us like a wolf whose first and foremost desire was to tear us limb from limb
+- **A stroll** &rarr; Un paseo
+  - I stepped off the car for a **stroll**, a young infantryman walked up to me and shook hands.
+- Stark &rarr; Severo
+  - This was my introduction to the **stark** realism that characterized the Marine Corps I later came to know.
+- Distraught &rarr; Muy preocupado
+  - Father was mildly **distraught** at the thought of me in the Marines as an enlisted man.
+- **To bolster** &rarr; Apoyar
+- Saggy &rarr; Hundirse
+- Weary &rarr; Agotado
+  - He has **bolstered** my **sagging** morale when I've become **weary** with what is not a happy subject.
