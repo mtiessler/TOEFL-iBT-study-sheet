@@ -58,6 +58,7 @@
 
 1) **Introduction**
    1) I totally agree with X opinion whereas I respectfully disagree with Y thinking. // I totally agree with both X and Y beliefs.
+   2) I hold the view that ___
 2) **First argument**
    1) An essential argument perhaps is ____ + reason why you think that + 1 example justifying it
 3) **Second argument**
