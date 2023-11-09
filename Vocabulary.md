@@ -71,6 +71,12 @@
 - Slap &rarr; Barro
 - Saggy &rarr; Poco firme
 - Hitch &rarr; Mover
+- **Dove** &rarr; Paloma
+  - **Doves** are beautiful white birds that magicians often use.
+- **Crows** &rarr Cuervos
+  - **Crows** are very intelligent birds and can be taught to pick up trash.
+- **Slug** &rarr Babosa
+  - A snail is just a **slug** with a shell.
 ---
 ### Mindhunter series
 - Vindicate &rarr; Exculpar

@@ -163,3 +163,24 @@ This is thanks to the example of the "big brother" concept seen in 1984.
 As a result, social movements are promoting privacy and trying to avoid politicians to seek in our lives. 
 Moreover, thanks to this kind of literature, we can understand how easily it is to follow political speeches which are not right and which promote violence or xenophobia, but we can't see it at first glance.
 An example is given in animal farm book and the communist outbreak seen in it.
+
+---
+### Practice
+#### Exercise 1
+
+Both the reading and the lecture encompass about the meaning of art and the role photography plays in it. 
+While the author of the reading argues that photography will never reach the same level of dedication and emotional impact than other forms of **artistic** expression like painting do, the lecturer opposes the claims presented in the reading. 
+Her position is that photography can be considered another fine art. 
+
+To begin with, according to the reading, photography can't be deemed to be fine art thanks to the easiness that digital cameras give to the photographers. 
+This argument is challenged by the professor. She manifests that photography has a wide range of dedication levels. 
+Photographers can be from very amateurs to very professionals. According to her, those that try to make fine art photography, need to make as much effort and need the same creativity as a painter. 
+
+Moreover, the author indicates that painting generates a real emotional response to people. 
+The professor, however, asserts that photography can also trigger an emotional response. 
+She points out that one of the objectives that photography has is about expressing the vision of the photographer. 
+As a result, this vision can trigger as well emotions to people. 
+
+Finally the author puts forth the idea that painting and other forms of art are timeless and highly valuable for people, which is not the case for photography. 
+On the other hand, the lecturer's stance is that photography is as valuable as other art expressions are. 
+She argues that since 1924, there have been photography collections displayed, this as a consequence, shows how interested people have been in photography.
