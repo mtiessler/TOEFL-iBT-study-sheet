@@ -6,7 +6,7 @@
   - 3 minutes reading
   - 1-2 mn listening
   - 15 mn writing
-
+ 
 - Discussion task
   - 10 mn reading + writing
 ---
@@ -163,6 +163,25 @@ This is thanks to the example of the "big brother" concept seen in 1984.
 As a result, social movements are promoting privacy and trying to avoid politicians to seek in our lives. 
 Moreover, thanks to this kind of literature, we can understand how easily it is to follow political speeches which are not right and which promote violence or xenophobia, but we can't see it at first glance.
 An example is given in animal farm book and the communist outbreak seen in it.
+---
+### Practice
+#### Exercise 2
+##### Professor Thompson: "Today, let's discuss the nature vs. nurture debate. In your opinion, which has a greater impact on a person's behavior and personality – their genetic makeup or their upbringing and environment? Why?"
+
+I strongly agree with Samantha's opinion whereas I respectfully disagree with Alex's one.
+I hold the view that upbringing and environment play a crucial role in oneself character development.
+
+An essential argument perhaps is that since you are a kid, the environment shows you which is the "correct" way to behave and relate with others. A great example is with your fathers and friends, both in school and at home. In those places, you see how your friends and parents treat each other. As a result, unconsciously, you start behaving the same way.
+Moreover, environment also shapes your mental state. For example, when there is an economic crisis, you earn less money. As a consequence, you feel more stressed, and your way of being and behaving changes drastically.
+---
+### Practice
+#### Exercise 2
+##### Professor Hawkins: "Fiction often serves as a mirror to society, reflecting its values, norms, and issues. Let's take a look at dystopian literature. How do you think this genre of fiction reflects concerns about our current society, and can it influence or shape the real world?"
+I wholeheartedly agree with both John's and Lisa's opinions.
+
+I hold the view that fiction is a great tool for depicting in which direction society is moving towards. An essential argument can be found in literature. Contemporary books such as 'Brave New World' or 1984 have introduced to society dystopian concepts such as 'the big brother' which have turn out to be an extremely accurate prediction of which shape of society we are creating.
+
+Moreover thanks to dystopian fiction, individuals have raised awareness about how governments can influence ourselves and our decisions. An example can be found with propaganda. Thanks to this genre, it is easier for us to understand its goal. As a result, society has become more aware of this kind of invisible political influences.
 
 ---
 ### Practice
