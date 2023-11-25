@@ -215,3 +215,14 @@ To begin with, according to the reading, the war was unwanted. In fact, it happe
 Moreover, the article argues that a Germany win would have lead to an European Union. The teacher however, asserts that this is a romantic idea. He manifests that the kaiser was not an openminded person. As a conclusion, it cannot be said that a country like the European Union would have been possible.
 
 Finally, the article puts forth the idea that there were a lot of unnecessary deaths because of foolish generals and the lack of good leaders. The teacher's stance is that it was not because of that. He points out that the main reason for so many deaths to happen was because the armies had similar skills and sizes, among a lot of many other reasons.
+
+---
+### Practice
+#### Exercise 1
+Both the reading and the lecture encompass how the state should compensate those who have suffered unfair imprisonments. The author of the reading believes that the state should compensate economically wrongly convicted people. Either by giving them money or helping them in the job market. The lecturer opposes the claims made in the article. His position is that the state needs to defend its economical position. As a result it should not give any compensation to them apart from releasing them from jail.
+
+To begin with, according to the reading, wrongly convicted people need to get compensated for having spent time in prison, which is not refundable. The only way to do that, is by giving them a lot of money in order to increase their quality of life. The professor, however, challenges this position. He manifests that the state gets economically harmed if it needs to compensate the convicted people. In fact, it looses more money than just leaving them in prison.
+
+Moreover, the reading manifests that those that have been unfairly imprisoned, lack of any quality of life when they leave prison. This is because they have lost time and money to spend with friends and family. As a result, they need money to compensate all of this. The teacher, however, argues that this clashes with the economical and moral principles from the state. If the state does not get any benefit both morally and economically, they won't help that person.
+
+Finally, the reading puts forth the idea that the imprisoned should retire as soon as possible. However the lecturer's stance is that the state won't allow that. He manifests that there is no good figure on how much to compensate in order to retire them. People could say that they just live in rich areas in order to get more money as compensation. Which would be an abuse to the system.
