@@ -203,3 +203,15 @@ As a result, this vision can trigger as well emotions to people.
 Finally the author puts forth the idea that painting and other forms of art are timeless and highly valuable for people, which is not the case for photography. 
 On the other hand, the lecturer's stance is that photography is as valuable as other art expressions are. 
 She argues that since 1924, there have been photography collections displayed, this as a consequence, shows how interested people have been in photography.
+
+
+---
+### Practice
+#### Exercise 1
+Both the reading and the lecture encompass World War I, the reason why it started, what could have happened if Germany had won and the unnecessary casualties involved. The author of the reading manifests that World War I was the result of an accident and because of the pre-existing alliances, a lot of countries had to join the fight. Also he or she thinks that an hypothetical win from Germany would have resulted in a country like the European Union. It can also be read that there were many unnecessary casualties because of bad leaders. The lecturer however opposes the claims presented in the article. His position is that it was not an unwanted war, that a Germany win wouldn't have lead to an European Union and the high amount of deaths were not result of bad leaders.
+
+To begin with, according to the reading, the war was unwanted. In fact, it happened because of an accident and it escalated because there were alliances. The lecturer challenges this position. He manifests that it is not true that no one wanted a war. According to him, Germany has a large portion of blame, as it did not prevent the war when in fact, it had the power and position for doing it.
+
+Moreover, the article argues that a Germany win would have lead to an European Union. The teacher however, asserts that this is a romantic idea. He manifests that the kaiser was not an openminded person. As a conclusion, it cannot be said that a country like the European Union would have been possible.
+
+Finally, the article puts forth the idea that there were a lot of unnecessary deaths because of foolish generals and the lack of good leaders. The teacher's stance is that it was not because of that. He points out that the main reason for so many deaths to happen was because the armies had similar skills and sizes, among a lot of many other reasons.
