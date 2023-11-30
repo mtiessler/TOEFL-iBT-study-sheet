@@ -5,8 +5,8 @@
 1. [Introduction](#introduction)
 2. [Reading Section](#reading-section)
 3. [Writing Section](#writing-section)
-4. [Third Example](#third-example)
-5. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+4. [Listening Section](#listening-section)
+5. [Speaking Section](#speaking-section)
 
 
 ## Introduction
@@ -61,7 +61,7 @@ I have summarized in the following chart all the necessary information per each 
 
 ### Integrated writing task tips
 - Aim for 180-220 words
-- Instead of using The writer/reading **says**, the lecturer **says** use words such as:
+- Instead of using The writer/reading **says** or the lecturer **says** use words such as:
     - Claim
     - Argue
     - Point out
@@ -97,13 +97,12 @@ I have summarized in the following chart all the necessary information per each 
     3) **On the other hand**, the lecturer’s stance is  _____.
     4) He **argues** that _____.
 
----
-### Independent writing task tips
+### Discussion writing task tips
 
 - A good way to start is to say that you agree/disagree with your colleagues.
 - Aim for +100 words
 
-### Integrated writing template
+### Discussion writing template
 
 1) **Introduction**
     1) I totally agree with X opinion whereas I respectfully disagree with Y thinking. // I wholeheartedly agree with both X and Y.
@@ -113,4 +112,7 @@ I have summarized in the following chart all the necessary information per each 
 3) **Second argument**
     1) Moreover, ___ + reason why + 1 example
 
----
+
+## Listening Section
+
+## Speaking Section
