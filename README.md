@@ -80,22 +80,22 @@ I have summarized in the following chart all the necessary information per each 
     - **While** the author of the reading thinks that ... the lecturer rejects the author's claims.
 
 ### Integrated task template
-1) **Introduction**
-    1) Both the reading and the lecture **encompass about** ___
-    2) **While** the author of the article **argues that** ___, the lecturer **opposes** the **claims** presented in the article
-    3) His position is ___
-2) **First paragraph**
-    1) **To begin with**, according to the reading __
-    2) This argument is **challenged** by the **lecturer**.
-    3) He **manifests** __
-3) **Second paragraph**
-    1) **Moreover**, the author **indicates**
-    2) The **teacher**, however, **asserts** __.
-    3) He **points out**
-4) **Third paragraph**
-    1) Finally, the author **puts forth the idea that** _____.
-    3) **On the other hand**, the lecturer’s stance is  _____.
-    4) He **argues** that _____.
+1. **Introduction**
+    1. Both the reading and the lecture **encompass about** ___
+    2. **While** the author of the article **argues that** ___, the lecturer **opposes** the **claims** presented in the article
+    3. His position is ___
+2. **First paragraph**
+    1. **To begin with**, according to the reading __
+    2. This argument is **challenged** by the **lecturer**.
+    3. He **manifests** __
+3. **Second paragraph**
+    1. **Moreover**, the author **indicates**
+    2. The **teacher**, however, **asserts** __.
+    3. He **points out**
+4. **Third paragraph**
+    1. Finally, the author **puts forth the idea that** _____.
+    2. **On the other hand**, the lecturer’s stance is  _____.
+    3. He **argues** that _____.
 
 ### Discussion writing task tips
 
@@ -114,5 +114,63 @@ I have summarized in the following chart all the necessary information per each 
 
 
 ## Listening Section
+### Content:
+- 3 Lectures (3-5 minutes long), 6 questions each.
+- 2 conversations (each 3 minutes long), 5 questions per conversation
+
+**IMPORTANT** you can't go back after moving to a new question.
+### Time:
+- **Total Time** 36 minutes
+
 
 ## Speaking Section
+
+### Part 1: Independent Speaking
+#### Content:
+Two situations or opinions. You will have to give your point of view on the subject and explain your reasoning with examples and arguments
+#### Time:
+- **Preparation**: 15 seconds
+- **Speaking**: 45 seconds
+#### Template
+- **I hold the view that** X
+- An essential argument perhaps is X
+- Moreover X
+
+### Part 2: Integrated Speaking (Campus)
+#### Content:
+You will read a short text related to university life, then you will listen to a conversation about the same subject. You will have to summarize the information from both documents.
+#### Time:
+- **Reading**: 45 seconds
+- **Listening**: 1-2 minutes
+- **Preparation**: 30 seconds
+- **Speaking**: 1 minute
+#### Template
+- The man/woman expresses his/her **disagreement** towards X
+- To begin with he/she **manifests** X
+- Moreover he/she indicates X
+
+### Part 3: Integrated Speaking (Academic)
+#### Content:
+You will read a short text related to an academic topic, then you will listen to a lecture about the same subject. You will have to summarize the information from both.
+#### Time:
+- **Reading**: 45 seconds
+- **Listening**: 1-2 minutes
+- **Preparation**: 30 seconds
+- **Speaking**: 1 minute
+#### Template
+- Both the reading and the lecture **encompass** about X
+- To begin with the teacher **exemplifies** X. He gives X examples.
+- Moreover the professor **illustrates** X.
+
+
+### Part 4: Lecture
+#### Content:
+You will listen to a two- or three-minute recording of a lecture. You will then have to explain the concept or main idea of the extract.
+#### Time:
+- **Listening**: 2-3 minutes
+- **Preparation**: 20 seconds
+- **Speaking**: 1 minute
+#### Template
+- The teacher **gives an explanation about** X by giving  X examples
+- Initially, the teacher **exemplifies** the concept X by saying Y.
+- Moreover the professor **illustrates** X. 

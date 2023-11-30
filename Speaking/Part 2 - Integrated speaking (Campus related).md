@@ -1,14 +1,4 @@
-#### Content:  
-You will read a short text related to university life, then you will listen to a conversation about the same subject. You will have to summarize the information from both documents.
-##### Time: 
-- **Reading**: 45 seconds 
-- **Listening**: 1-2 minutes
-- **Preparation**: 30 seconds
-- **Speaking**: 1 minute
-##### Template
-- The man/woman expresses his/her **disagreement** towards the **< situation>**
-- To begin with he/she **manifests** **<argument 1>** 
-- Moreover he/she indicates **<argument 2>** 
+
 ## Exercise 1
 Due to an influx of exchange students from Spain and Latin America, starting this trimester the university will be offering free Spanish language tuition for interested parties. Participation in these courses is limited, however, and preference will be given to those students taking part in activities directly related to the exchange program. Go to the university website for further details.
 ## Exercise 2

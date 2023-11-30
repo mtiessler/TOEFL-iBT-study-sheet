@@ -1,14 +1,4 @@
-#### Content:  
-You will read a short text related to university life, then you will listen to a conversation about the same subject. You will have to summarize the information from both documents.
-##### Time: 
-- **Reading**: 45 seconds 
-- **Listening**: 1-2 minutes
-- **Preparation**: 30 seconds
-- **Speaking**: 1 minute
-##### Template
-- Both the reading and the lecture **encompass** about < concept> 
-- To begin with the teacher **exemplifies** this  **<example 1>** 
-- Moreover the professor **illustrates** **< example 2>** 
+
 ## Exercise 1
 In Biology, the process called mitosis is a part of the cell cycle, in which chromosomes are replicated and separated into two new nuclei. This is a process which only occurs in certain types of cells, called eukaryotic cells. Most animals undergo this type of mitosis, although the process can vary between one animal and the next. Errors sometimes occur during this process, which is how many forms of cancer come to be. These are typically caused by having too few or too many chromosomes in the duplicated cells. Some organisms also use mitosis as a form of reproduction.
 ## Exercise 2
