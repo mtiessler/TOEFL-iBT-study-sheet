@@ -158,3 +158,35 @@ To begin with, according to the reading, wrongly convicted people need to get co
 Moreover, the reading manifests that those that have been unfairly imprisoned, lack of any quality of life when they leave prison. This is because they have lost time and money to spend with friends and family. As a result, they need money to compensate all of this. The teacher, however, argues that this clashes with the economical and moral principles from the state. If the state does not get any benefit both morally and economically, they won't help that person.
 
 Finally, the reading puts forth the idea that the imprisoned should retire as soon as possible. However the lecturer's stance is that the state won't allow that. He manifests that there is no good figure on how much to compensate in order to retire them. People could say that they just live in rich areas in order to get more money as compensation. Which would be an abuse to the system.
+
+---
+### Practice
+#### Exercise 1
+Both the reading and the lecture encompass the new **entrepreneurship** **campaign** to encourage youngsters to set up businesses. 
+While the author of the reading manifests that this campaign will raise awareness, will simplify the processes needed for establishing a company and last but not least, benefit the overall economy, the lecturer opposes the claims presented in the article. 
+Her position is that this campaign will not result in any **beneficial** outcome, neither for the young people nor the economy. 
+
+To begin with, according to the reading, this campaign will raise awareness among the young people, resulting in a motivation increase in setting up a business. 
+The lecturer challenges this position. She opines that nowadays young people are fully aware of the benefits of setting up a company. 
+In fact, **very often**, they have as referents tech entrepreneurs. 
+
+Moreover, the author of the reading argues that the campaign would simplify the processes involved when establishing a new company. 
+The lecturer, however, argues that this is not **beneficial** at all. 
+She states that regulations are not a barrier at all for setting up a business. 
+Their purpose is to protect investors and loan providers. As a result only realistic business plans end up in the market. 
+
+Finally, the reading puts forth the idea that this campaign will foster the economy, as there will be a higher tax revenue if new businesses are set up. 
+The lecturer's stance is that this is not true. She manifests that 60% of the companies fail in the first 3 years. Not only that but also they end up in bankruptcy. 
+By allowing more people setting up their own companies, **these** numbers would increase and the economy would not get any benefit from that.
+
+
+---
+### Practice
+#### Exercise 2
+I agree with Henry's opinion while I respectfully disagree with Nora's one. I hold the view that smartphones have had a positive impact on interpersonal communication. 
+An essential argument perhaps is the easiness to stay in touch with your relatives. 
+As a result, you can be an expat and still be in contact with your family. 
+
+Moreover, thanks to smartphones, we are constantly updated about what is happening around us. 
+For example, we can access either the social media or a newspaper webpage and see what is happening in our city. 
+This results in a more productive daily life and not only that, but also, in an improvement in organizing our schedule.

@@ -1,4 +1,3 @@
-
 ## Exercise 1
 In Biology, the process called mitosis is a part of the cell cycle, in which chromosomes are replicated and separated into two new nuclei. This is a process which only occurs in certain types of cells, called eukaryotic cells. Most animals undergo this type of mitosis, although the process can vary between one animal and the next. Errors sometimes occur during this process, which is how many forms of cancer come to be. These are typically caused by having too few or too many chromosomes in the duplicated cells. Some organisms also use mitosis as a form of reproduction.
 ## Exercise 2

@@ -1,4 +1,3 @@
-
 ## Exercise 1
 Due to an influx of exchange students from Spain and Latin America, starting this trimester the university will be offering free Spanish language tuition for interested parties. Participation in these courses is limited, however, and preference will be given to those students taking part in activities directly related to the exchange program. Go to the university website for further details.
 ## Exercise 2
