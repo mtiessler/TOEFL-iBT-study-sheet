@@ -1,10 +1,16 @@
-## Exercise 1
+# Q
 Due to an influx of exchange students from Spain and Latin America, starting this trimester the university will be offering free Spanish language tuition for interested parties. Participation in these courses is limited, however, and preference will be given to those students taking part in activities directly related to the exchange program. Go to the university website for further details.
-## Exercise 2
+# Q
 The faculty is announcing a two-week extension to your end-of-term assignments. This means that the new deadline for submission is 5pm 30th May via the online portal. This decision was taken following letters from students who expressed concern that the previous deadline did not provide an adequate timeframe for completion. We also recognise that the recent closure of the library for renovations has further inhibited students in completing this assignment. We are aware assignments can be stressful and it is hoped this additional time will ease the process and allow you to perform to the best of your abilities.
-## Exercise 3
+# Q
 The university is pleased to announce that once again, we will be organising a four-day trip to New York City during the Spring Break. We’ve put this event on every year for the past seven, and participation has been great each year. This year, we will be visiting two museums and going to the new theme park which has just opened near LaGuardia airport.
 Interested students should go to the Student Union office on the third floor of the Maxwell building for more information.
-## Exercise 4
+# Q
 The University's international relations department announced last Monday that it will implement fees for international students. "This measure is in agreement with other countries and aims to balance the accounts of our University", reported the Director of the Department. "It is important to note that students from other countries who are already enrolled will not be affected. The measure goes into effect in 2021". In addition, the University announced a distinction between undergraduate and graduate courses. "We decided to charge an amount 30% and 50% higher for Master and Doctoral students respectively", explained the director. "For us, it makes more sense than an experienced student who is more likely to work and can pay more."
 
+# Q
+The University's international relations department announced last Monday that it will implement fees for international students. "This measure is in agreement with other countries and aims to balance the accounts of our University", reported the Director of the Department. "It is important to note that students from other countries who are already enrolled will not be affected. The measure goes into effect in 2021". In addition, the University announced a distinction between undergraduate and graduate courses. "We decided to charge an amount 30% and 50% higher for Master and Doctoral students respectively", explained the director. "For us, it makes more sense than an experienced student who is more likely to work and can pay more."
+
+The man expresses his opinion on the university's fees. State his opinion and explain the reasons he gives for holding that opinion.
+# SA
+==The reading passage== announces change on fees for international students in the University. In particular, the University has decided to charge more post-graduate students. The man in the conversation ==is against this idea==. ==To start==, he says that his girlfriend is supposed to start a Master degree and she will be affected by this decision. He says that the students should be advised earlier about this important measure. Secondly, he explains that this decision will not affect students that are already enrolled in the University. He adds that this decision may create a sense of inequality between local and foreign students which is something undesirable. The man also believes that there are alternative ways to finance the University. ==As you can see==, the man in the listening clearly disagrees with this decision to set up fees for foreign students.
