@@ -135,3 +135,15 @@
   -I preferred glory to every enticement that wealth placed in my path.  
 - Fortnight &rarr; A period of two weeks.
   - I shall depart in a **fortnight**.
+# Synonims
+- There is no shortage of opinion on – The idea according to which – No one can deny that – Many people wonder – There is a great debate on – Many people have different opinions/beliefs/feelings about – Societies around the world have various ideas about - Recently, there has been a ton of debate as to...
+- In my opinion – I do believe that – I absolutely think that – it is certainly clear to see why I feel that - If I were asked, I would say that – I strongly believe that – personally – honestly
+- Convenient modern life of today – contemporary lifestyle – present actions of everyday citizens – modern society
+- Negatively impact – cause more distress – future repercussions – will have to pay for
+- Future generations – individuals in the future – future repercussions
+- To start – right off the bat – from the beginning – immediately – from the get-go – for starters – first of all – firstly – in the first place
+- agree – support – back – be in support of – be in agreement with – see eye to eye with
+- disagree - casts doubt on – not agree with – oppose – contest
+- idea – notion – theory – hypothesis – argument - point
+- opinion – stance – belief – thought
+- argue – claim – posit – insist - contend - focus on
