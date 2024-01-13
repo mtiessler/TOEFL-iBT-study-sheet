@@ -177,3 +177,8 @@ You will listen to a two- or three-minute recording of a lecture. You will then 
 - The teacher **gives an explanation about** X by giving  X examples
 - Initially, the teacher **exemplifies** the concept X by saying Y.
 - Moreover the professor **illustrates** X. 
+
+# Interesting links
+[Two study plan](https://magoosh.com/toefl/two-week-toefl-study-plan/)
+[Sudy eBook](https://toefl.magoosh.com/guide-toefl-ibt)
+
